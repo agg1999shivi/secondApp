@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Aug 04 19:49:15 IST 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Dell\\Desktop\\it\\it\\iit\\app\\build\\intermediates\\assets\\debug
+0.path=crashlytics-build.properties
+0.set=ASSET
+count=1

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "861751318483",
+    "firebase_url": "https://iitline-55b54.firebaseio.com",
+    "project_id": "iitline-55b54",
+    "storage_bucket": "iitline-55b54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861751318483:android:fb9b1d4589f26d8c",
+        "android_client_info": {
+          "package_name": "com.example.abhatripathi.iitline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861751318483-6nbcf4tf7mubo6s49v4vkgr8it2762lo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abhatripathi.iitline",
+            "certificate_hash": "405cffc43447d8b8008ae8e7c55ddfad71832316"
+          }
+        },
+        {
+          "client_id": "861751318483-culkqkfsph2ll6mg3njgcdau4029mbpn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhbKjvQ7ccFO-p2DhsrffJLwurhzqt_IE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861751318483-culkqkfsph2ll6mg3njgcdau4029mbpn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
